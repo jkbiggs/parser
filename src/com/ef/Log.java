@@ -9,7 +9,6 @@ import java.util.Map;
 import java.util.Scanner;
 
 class Log {
-    // hey you what's good?  this is highlighted as a change?
 
     private static final String DELIMETER = "\\|";
     private static final String TABLE_LOG = "logs";
